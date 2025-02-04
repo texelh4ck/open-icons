@@ -3,35 +3,13 @@
 
 <svg
    width="113.45358mm"
-   height="100mm"
-   viewBox="0 0 113.45358 100"
+   height="45.065327mm"
+   viewBox="0 0 113.45358 45.065327"
    version="1.1"
    id="svg1"
    xml:space="preserve"
-   sodipodi:docname="2.svg"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     inkscape:document-units="mm"
-     inkscape:zoom="1.1473855"
-     inkscape:cx="214.40047"
-     inkscape:cy="85.41157"
-     inkscape:window-width="1241"
-     inkscape:window-height="755"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg1" /><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath318"><path
@@ -294,7 +272,7 @@
          transform="translate(-697.44532,-517.89651)"
          id="path416" /></clipPath></defs><g
      id="layer-MC1"
-     transform="matrix(0.26458334,0,0,0.26458335,-152.64006,-41.016778)"><path
+     transform="matrix(0.26458334,0,0,0.26458335,-152.64006,-68.484127)"><path
        id="path317"
        d="m 0,0 c -1.17,19.605 -18.436,27.507 -33.652,35.115 -15.217,7.608 -55.014,8.194 -55.014,8.194 0,0 -11.998,16.972 -18.143,26.336 -6.144,9.364 -43.13,9.949 -43.13,9.949 -82.635,0 -98.5,-24.581 -116.936,-43.016 C -285.311,18.142 -289.045,0 -289.045,0 c 0,0 -19.969,3.218 -20.262,-6.308 -0.293,-9.527 13.315,-9.07 13.315,-9.07 v -5.06 c 23,-0.247 27.127,11.206 27.127,11.206 0,0 0.863,1.802 2.652,4.331 3.947,11.758 14.988,18.854 28.078,18.854 14.52,0 27.375,-8.991 31.561,-22.365 2.824,-9.028 1.271,-16.866 1.271,-16.866 h 136.817 c 0,0 -1.457,6.121 1.724,18.084 3.272,12.295 16.26,20.31 29.643,20.31 10.535,0 19.945,-3.914 26,-11.632 6.349,-8.095 6.437,-19.081 6.437,-19.081 l 6.436,0.313 -0.584,3.814 c 0,0 11.119,-2.629 11.119,5.564 C 12.289,0.288 0,0 0,0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
