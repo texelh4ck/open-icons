@@ -3,13 +3,35 @@
 
 <svg
    width="119.0894mm"
-   height="42.212772mm"
-   viewBox="0 0 119.0894 42.212773"
+   height="100mm"
+   viewBox="0 0 119.0894 100"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   sodipodi:docname="4.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.0930864"
+     inkscape:cx="225.05084"
+     inkscape:cy="79.59115"
+     inkscape:window-width="1241"
+     inkscape:window-height="755"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><defs
      id="defs1"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath107"><path
@@ -292,7 +314,7 @@
          transform="matrix(1.3333333,0,0,-1.3333333,0,1066.6667)"
          id="path212" /></clipPath></defs><g
      id="layer-MC1"
-     transform="matrix(0.26458334,0,0,0.26458335,-19.461084,-137.15865)"><path
+     transform="matrix(0.26458334,0,0,0.26458335,-19.461084,-108.26504)"><path
        id="path106"
        d="m 0,0 c 0,-16.395 -13.288,-29.681 -29.681,-29.681 -16.392,0 -29.68,13.286 -29.68,29.681 0,16.392 13.288,29.681 29.68,29.681 C -13.288,29.681 0,16.392 0,0"
        style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"

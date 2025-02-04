@@ -3,13 +3,35 @@
 
 <svg
    width="106.81971mm"
-   height="38.123352mm"
-   viewBox="0 0 106.81971 38.123352"
+   height="100mm"
+   viewBox="0 0 106.81971 100"
    version="1.1"
    id="svg1"
    xml:space="preserve"
+   sodipodi:docname="6.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.2186421"
+     inkscape:cx="201.86402"
+     inkscape:cy="72.211519"
+     inkscape:window-width="1241"
+     inkscape:window-height="755"
+     inkscape:window-x="26"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" /><defs
      id="defs1"><clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath524"><path
@@ -272,7 +294,7 @@
          transform="translate(-528.57232,-146.0225)"
          id="path622" /></clipPath></defs><g
      id="layer-MC1"
-     transform="matrix(0.26458334,0,0,0.26458335,-155.95729,-200.98826)"><path
+     transform="matrix(0.26458334,0,0,0.26458335,-155.95729,-170.04993)"><path
        id="path523"
        d="m 0,0 c -0.721,7.045 -24.564,21.315 -53.074,20.773 -28.512,-0.543 -44.555,8.281 -73.166,21.296 -26.901,12.239 -105.506,7.066 -119.053,4.718 -13.547,-2.348 -28.172,1.45 -24.559,-6.679 3.614,-8.128 -18.414,-13.717 -24.736,-16.608 -6.322,-2.89 5.086,-20.57 -0.695,-26.694 -5.781,-6.124 -5.942,-12.263 -3.381,-22.917 2.312,-9.625 17.478,-10.908 20.389,-11.066 -0.403,1.923 -0.616,3.915 -0.616,5.957 0,15.994 12.965,28.96 28.961,28.96 15.994,0 28.959,-12.966 28.959,-28.96 0,-2.916 -0.435,-5.727 -1.236,-8.382 -0.057,-0.567 -0.104,-0.893 -0.104,-0.893 l 138.495,-0.327 c -0.045,1.703 -0.016,3.354 0.072,4.96 -0.242,1.512 -0.375,3.061 -0.375,4.642 0,15.994 12.965,28.96 28.961,28.96 15.994,0 28.959,-12.966 28.959,-28.96 0,-3.354 -0.576,-6.572 -1.625,-9.568 2.547,0.257 18.547,2.045 26.015,7.191 C 6.32,-27.997 0.723,-7.045 0,0"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
